@@ -36,6 +36,7 @@
 - [Nx Angular Workspace](https://nx.dev/) – Monorepo toolkit supporting Angular.
 - [ASP.NET Core + Angular Template](https://github.com/dotnet/aspnetcore) – Full-stack example template.
 - [Scully Starter](https://github.com/scullyio/scully) – Static-site generation for Angular.
+- [SaaS Starter](https://github.com/sayahweb2-png/saas-starter-lite) – Production-ready Angular 21 + NestJS 11 SaaS boilerplate with JWT/OAuth/2FA auth, Stripe subscriptions, multi-tenancy, RBAC, Docker, and Terraform for AWS. [Demo](https://demo.cloudrix.io)
 
 ## UI Libraries & Components
 
