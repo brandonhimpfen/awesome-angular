@@ -45,6 +45,7 @@
 - [Nebular](https://github.com/akveo/nebular) – Customizable UI library for admin dashboards.
 - [Clarity](https://github.com/vmware/clarity) – Angular components from VMware.
 - [ngx-bootstrap](https://github.com/valor-software/ngx-bootstrap) – Bootstrap components for Angular.
+- [Markstream Angular](https://github.com/Simon-He95/markstream-vue/tree/main/packages/markstream-angular) – Streaming Markdown renderer for Angular 20+ AI chat interfaces with Mermaid, KaTeX, Monaco, safe components, and SSR.
 
 ## State Management
 
