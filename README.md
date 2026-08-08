@@ -76,6 +76,7 @@
 - [ngx-build-plus](https://github.com/manfredsteyer/ngx-build-plus) – Extend the Angular build process.
 - [Nitro + Angular Integrations](https://nitro.unjs.io/) – Lightweight server engine for Angular SSR.
 - [Angular DevTools](https://github.com/angular/angular/tree/main/packages/angular_devtools) – Performance and profiling suite.
+- [ng-ssr-caching](https://www.npmjs.com/package/ng-ssr-caching) - Cache for server-side rendered pages in Angular SSR.
 
 ## Learning Resources
 
