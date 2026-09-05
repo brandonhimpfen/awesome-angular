@@ -1,4 +1,4 @@
-# Awesome Angular [![Awesome Lists](https://srv-cdn.himpfen.io/badges/awesome-lists/awesomelists-flat.svg)](https://github.com/awesomelistsio/awesome)
+# Awesome Angular [![Awesome Lists](https://srv-cdn.himpfen.io/badges/awesome-lists/awesomelists-flat.svg)](https://github.com/brandonhimpfen/awesome-lists)
 
 [![GitHub Sponsors](https://srv-cdn.himpfen.io/badges/github/github-flat.svg)](https://github.com/sponsors/awesomelistsio) &nbsp; 
 [![Ko-Fi](https://srv-cdn.himpfen.io/badges/kofi/kofi-flat.svg)](https://ko-fi.com/awesomelists) &nbsp; 
@@ -88,9 +88,9 @@
 
 ## Related Awesome Lists
 
-- [Awesome Web Development](https://github.com/awesomelistsio/awesome-web-development)
-- [Awesome TypeScript](https://github.com/awesomelistsio/awesome-typescript)
-- [Awesome JavaScript](https://github.com/awesomelistsio/awesome-javascript)
+- [Awesome Web Development](https://github.com/brandonhimpfen/awesome-web-development)
+- [Awesome TypeScript](https://github.com/brandonhimpfen/awesome-typescript)
+- [Awesome JavaScript](https://github.com/brandonhimpfen/awesome-javascript)
 
 ## Contribute
 
